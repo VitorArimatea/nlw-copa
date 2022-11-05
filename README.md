@@ -20,7 +20,7 @@ O calendário da copa é um projeto que mostra os  jogos da copa do mundo de 202
 
 ## 🔖 Layout
 
-
+Link para visualizar o projeto: https://vitorarimatea.github.io/nlw-copa/
 
 ## :memo: Licença
 
